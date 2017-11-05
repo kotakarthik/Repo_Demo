@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 34FE-E2D5
+
+ Directory of C:\Users\Karthik\Desktop\Git Begining
+
+11/05/2017  08:14 AM    <DIR>          .
+11/05/2017  08:14 AM    <DIR>          ..
+11/05/2017  08:14 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,336,667,136 bytes free
